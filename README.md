@@ -15,3 +15,8 @@ Dynamic stop limit....the example is f 2023 amide the ukraine war the loss is st
 
 ![image](https://github.com/vrmaverick/Trading_bot/assets/119831329/1ec5cbb8-6cf6-4b4e-b2fd-549ba9c09b5a)
 
+Plotting indicators sma and 52-week high,low
+
+
+![image](https://github.com/vrmaverick/Trading_bot/assets/119831329/d4191437-91a5-437a-a729-f3ee618bf3a7)
+
